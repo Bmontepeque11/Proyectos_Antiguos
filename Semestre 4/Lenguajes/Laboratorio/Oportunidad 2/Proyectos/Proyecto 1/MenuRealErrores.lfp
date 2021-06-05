@@ -1,0 +1,12 @@
+#rest!aurante='Restaurante & LFP'
+$'Bebi@das' #  :
+&[bebi!da_1;@'Bebida #1'$;#1@1!.%;@'Descripción #!@$#@ & Bebida 1'$]
+[ bebida_2;'Bebida #2';10.50;    'Descripción Bebida 2']
+
+'Desa@yunos':
+[d1!;'Desayuno # 1';45*.00;'De+scripción Desayuno 1']
+[d!2 ;'Desayuno 2';    40.   ;'Descripción @ Desayuno 2']
+[d+3;'Desayun*o 3';35;'Descripción Desayuno 3']
+
+'  Post#res':
+[   pos_001;'Postre@ 1'   ;25%;'Descripción Postre 1']
