@@ -1,0 +1,203 @@
+graph G {
+ subgraph tabla {
+ node [shape = square]
+Matriz_1[label=<
+<TABLE border = "1">
+<TR>
+<TD border = "1">Matriz_1</TD>
+<TD border = "1">1</TD>
+<TD border = "1">2</TD>
+<TD border = "1">3</TD>
+<TD border = "1">4</TD>
+<TD border = "1">5</TD>
+<TD border = "1">6</TD>
+<TD border = "1">7</TD>
+<TD border = "1">8</TD>
+<TD border = "1">9</TD>
+<TD border = "1">10</TD>
+<TD border = "1">11</TD>
+<TD border = "1">12</TD>
+</TR>
+<TR>
+<TD border="1">1</TD>
+<TD border="1">*</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1">*</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">2</TD>
+<TD border="1">*</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1">*</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">3</TD>
+<TD border="1">*</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1">*</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">4</TD>
+<TD border="1">*</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1">*</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">5</TD>
+<TD border="1"> </TD>
+<TD border="1">*</TD>
+<TD border="1">*</TD>
+<TD border="1">*</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">6</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">7</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">8</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">9</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">10</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">11</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+<TR>
+<TD border="1">12</TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+<TD border="1"> </TD>
+</TR>
+</TABLE>>];
+}
+}

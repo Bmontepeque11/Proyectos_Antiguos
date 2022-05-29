@@ -1,0 +1,20 @@
+1. Menu
+2. Leer archivos xml, con o sin librería
+3. Hacer la lista circular
+4. Llenar la lista circular con nombres
+5. Apuntar hacia el primer nodo de mi matriz
+6. Hacer la primer fila o lista
+   6.1 Apuntar hacia la siguiente linea, si existe una siguiente
+   6.2 repetir paso 6
+7.  Avanzar hacia la siguiente matriz, si es que existe
+ 7.1 Ir a paso 5
+8. Crear la matriz binaria
+9. Comparar las filas de la matriz binaria
+    9.1 hacer la lista de las filas iguales
+10. Crear lista de salida
+11. Llenar la lista de salidad con las matrices
+12. Sumar los datos
+13. Llenar la frecuencia y grupos
+14. graphviz
+
+15. documentación

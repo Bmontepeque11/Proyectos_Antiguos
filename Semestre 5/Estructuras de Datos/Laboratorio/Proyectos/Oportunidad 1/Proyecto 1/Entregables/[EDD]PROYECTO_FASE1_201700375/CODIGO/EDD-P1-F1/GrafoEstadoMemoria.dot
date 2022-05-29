@@ -1,0 +1,342 @@
+digraph G {
+subgraph cluster_Recepcion {
+label="Recepción"
+R0[label="INICIO"];
+R0->R1;
+
+R1[shape="box" label="ID_Cliente: 1
+Nombre_Cliente: Polly Rodriguez
+Img_Color: 3
+Img_BW: 2"];
+R2[shape="box" label="ID_Cliente: 2
+Nombre_Cliente: Yang Wiggins
+Img_Color: 1
+Img_BW: 4"];
+R1 -> R2;
+
+R3[shape="box" label="ID_Cliente: 3
+Nombre_Cliente: Douglas Dominguez
+Img_Color: 0
+Img_BW: 3"];
+R2 -> R3;
+
+R4[shape="box" label="ID_Cliente: 4
+Nombre_Cliente: Faith Hopkins
+Img_Color: 1
+Img_BW: 3"];
+R3 -> R4;
+
+R5[shape="box" label="ID_Cliente: 5
+Nombre_Cliente: Sandy Mason
+Img_Color: 1
+Img_BW: 4"];
+R4 -> R5;
+
+R6[shape="box" label="ID_Cliente: 6
+Nombre_Cliente: Stefanie Wise
+Img_Color: 1
+Img_BW: 0"];
+R5 -> R6;
+
+R7[shape="box" label="ID_Cliente: 7
+Nombre_Cliente: Leach Ross
+Img_Color: 3
+Img_BW: 4"];
+R6 -> R7;
+
+R8[shape="box" label="ID_Cliente: 8
+Nombre_Cliente: Tabatha Pickett
+Img_Color: 3
+Img_BW: 2"];
+R7 -> R8;
+
+R9[shape="box" label="ID_Cliente: 9
+Nombre_Cliente: Tommie Mcpherson
+Img_Color: 1
+Img_BW: 1"];
+R8 -> R9;
+
+R10[shape="box" label="ID_Cliente: 10
+Nombre_Cliente: Shannon Johnston
+Img_Color: 0
+Img_BW: 0"];
+R9 -> R10;
+
+R11[shape="box" label="ID_Cliente: 11
+Nombre_Cliente: Leigh Bright
+Img_Color: 1
+Img_BW: 4"];
+R10 -> R11;
+
+R12[shape="box" label="ID_Cliente: 12
+Nombre_Cliente: Alyce Alford
+Img_Color: 3
+Img_BW: 0"];
+R11 -> R12;
+
+R13[shape="box" label="ID_Cliente: 13
+Nombre_Cliente: Haley Rosario
+Img_Color: 0
+Img_BW: 4"];
+R12 -> R13;
+
+R14[shape="box" label="ID_Cliente: 14
+Nombre_Cliente: Durham Logan
+Img_Color: 3
+Img_BW: 2"];
+R13 -> R14;
+
+R15[shape="box" label="ID_Cliente: 15
+Nombre_Cliente: Elinor Ford
+Img_Color: 0
+Img_BW: 0"];
+R14 -> R15;
+
+R16[shape="box" label="ID_Cliente: 16
+Nombre_Cliente: Noelle Morse
+Img_Color: 0
+Img_BW: 1"];
+R15 -> R16;
+
+R17[shape="box" label="ID_Cliente: 17
+Nombre_Cliente: Gutierrez Casey
+Img_Color: 3
+Img_BW: 4"];
+R16 -> R17;
+
+R18[shape="box" label="ID_Cliente: 18
+Nombre_Cliente: Long Meyer
+Img_Color: 3
+Img_BW: 0"];
+R17 -> R18;
+
+R19[shape="box" label="ID_Cliente: 19
+Nombre_Cliente: Geraldine Pierce
+Img_Color: 3
+Img_BW: 1"];
+R18 -> R19;
+
+R20[shape="box" label="ID_Cliente: 20
+Nombre_Cliente: Roman Branch
+Img_Color: 3
+Img_BW: 2"];
+R19 -> R20;
+
+R21[shape="box" label="ID_Cliente: 21
+Nombre_Cliente: Pruitt Perez
+Img_Color: 4
+Img_BW: 2"];
+R20 -> R21;
+
+R22[shape="box" label="ID_Cliente: 22
+Nombre_Cliente: Nola Winters
+Img_Color: 3
+Img_BW: 1"];
+R21 -> R22;
+
+R23[shape="box" label="ID_Cliente: 23
+Nombre_Cliente: Gay Mcmillan
+Img_Color: 0
+Img_BW: 1"];
+R22 -> R23;
+
+R24[shape="box" label="ID_Cliente: 24
+Nombre_Cliente: Carolyn Harmon
+Img_Color: 3
+Img_BW: 2"];
+R23 -> R24;
+
+R25[shape="box" label="ID_Cliente: 25
+Nombre_Cliente: Jolene Mccall
+Img_Color: 0
+Img_BW: 0"];
+R24 -> R25;
+
+R26[shape="box" label="ID_Cliente: 26
+Nombre_Cliente: Evelyn Fitzgerald
+Img_Color: 0
+Img_BW: 1"];
+R25 -> R26;
+
+R27[shape="box" label="ID_Cliente: 27
+Nombre_Cliente: Hudson Lancaster
+Img_Color: 1
+Img_BW: 1"];
+R26 -> R27;
+
+R28[shape="box" label="ID_Cliente: 28
+Nombre_Cliente: Ellison Hood
+Img_Color: 3
+Img_BW: 0"];
+R27 -> R28;
+
+R29[shape="box" label="ID_Cliente: 29
+Nombre_Cliente: Whitney Clayton
+Img_Color: 0
+Img_BW: 4"];
+R28 -> R29;
+
+R30[shape="box" label="ID_Cliente: 30
+Nombre_Cliente: Moore Horton
+Img_Color: 0
+Img_BW: 4"];
+R29 -> R30;
+
+R31[shape="box" label="ID_Cliente: 31
+Nombre_Cliente: Maggie Levine
+Img_Color: 4
+Img_BW: 2"];
+R30 -> R31;
+
+R32[shape="box" label="ID_Cliente: 32
+Nombre_Cliente: Andrews Vance
+Img_Color: 2
+Img_BW: 1"];
+R31 -> R32;
+
+R33[shape="box" label="ID_Cliente: 33
+Nombre_Cliente: Dixie Howard
+Img_Color: 0
+Img_BW: 4"];
+R32 -> R33;
+
+R34[shape="box" label="ID_Cliente: 34
+Nombre_Cliente: Heidi Lowery
+Img_Color: 4
+Img_BW: 2"];
+R33 -> R34;
+
+R35[shape="box" label="ID_Cliente: 35
+Nombre_Cliente: Bennett Malone
+Img_Color: 4
+Img_BW: 2"];
+R34 -> R35;
+
+R36[shape="box" label="ID_Cliente: 36
+Nombre_Cliente: Witt Forbes
+Img_Color: 1
+Img_BW: 0"];
+R35 -> R36;
+
+R37[shape="box" label="ID_Cliente: 37
+Nombre_Cliente: Erma Barron
+Img_Color: 1
+Img_BW: 4"];
+R36 -> R37;
+
+R38[shape="box" label="ID_Cliente: 38
+Nombre_Cliente: Mabel Nicholson
+Img_Color: 2
+Img_BW: 0"];
+R37 -> R38;
+
+R39[shape="box" label="ID_Cliente: 39
+Nombre_Cliente: Maddox Frazier
+Img_Color: 1
+Img_BW: 1"];
+R38 -> R39;
+
+R40[shape="box" label="ID_Cliente: 40
+Nombre_Cliente: Brigitte Wheeler
+Img_Color: 4
+Img_BW: 3"];
+R39 -> R40;
+
+R41[shape="box" label="ID_Cliente: 41
+Nombre_Cliente: Christa Mendoza
+Img_Color: 2
+Img_BW: 3"];
+R40 -> R41;
+
+R42[shape="box" label="ID_Cliente: 42
+Nombre_Cliente: Etta Blake
+Img_Color: 3
+Img_BW: 0"];
+R41 -> R42;
+
+R43[shape="box" label="ID_Cliente: 43
+Nombre_Cliente: Macdonald Murray
+Img_Color: 1
+Img_BW: 1"];
+R42 -> R43;
+
+R44[shape="box" label="ID_Cliente: 44
+Nombre_Cliente: Garza York
+Img_Color: 2
+Img_BW: 0"];
+R43 -> R44;
+
+R45[shape="box" label="ID_Cliente: 45
+Nombre_Cliente: Hatfield Sykes
+Img_Color: 1
+Img_BW: 0"];
+R44 -> R45;
+
+R46[shape="box" label="ID_Cliente: 46
+Nombre_Cliente: Washington Dickerson
+Img_Color: 3
+Img_BW: 0"];
+R45 -> R46;
+
+R47[shape="box" label="ID_Cliente: 47
+Nombre_Cliente: Ethel Cortez
+Img_Color: 3
+Img_BW: 2"];
+R46 -> R47;
+
+R48[shape="box" label="ID_Cliente: 48
+Nombre_Cliente: Vicky Jimenez
+Img_Color: 4
+Img_BW: 4"];
+R47 -> R48;
+
+R49[shape="box" label="ID_Cliente: 49
+Nombre_Cliente: Romero Sanders
+Img_Color: 2
+Img_BW: 0"];
+R48 -> R49;
+
+R50[shape="box" label="ID_Cliente: 50
+Nombre_Cliente: Shana Burke
+Img_Color: 0
+Img_BW: 4"];
+R49 -> R50;
+
+}subgraph cluster_Ventanillas {
+label="Ventanillas"
+V1[shape="box" label="ID_Ventnailla: 1
+Pasos_Ocupada: 0
+estaOcupada: false"];
+
+V2[shape="box" label="ID_Ventnailla: 2
+Pasos_Ocupada: 0
+estaOcupada: false"];
+V1 -> V2;
+
+V3[shape="box" label="ID_Ventnailla: 3
+Pasos_Ocupada: 0
+estaOcupada: false"];
+V2 -> V3;
+
+V4[shape="box" label="ID_Ventnailla: 4
+Pasos_Ocupada: 0
+estaOcupada: false"];
+V3 -> V4;
+
+}subgraph cluster_Impresoras {
+label="Impresoras"
+I0[label="INICIO"];
+I0->I1;
+
+I1[shape="box" label="ID_Cliente: 1
+Nombre_Impresora: Impresora BW
+Nombre_Cliente: Yang Wiggins
+Img_a_Imprimir: 4"];
+I2[shape="box" label="ID_Cliente: 2
+Nombre_Impresora: Impresora Color
+Nombre_Cliente: Polly Rodriguez
+Img_a_Imprimir: 3"];
+I1 -> I2;
+
+}
+}
