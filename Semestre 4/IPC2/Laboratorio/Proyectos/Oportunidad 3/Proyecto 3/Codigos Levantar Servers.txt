@@ -1,6 +1,0 @@
-Levantar Flask:
--CMD: python api.py
-
-Levantar Django:
--Powershell:entrar a la carpeta con el manage.py
-py manage.py runserver 8000
