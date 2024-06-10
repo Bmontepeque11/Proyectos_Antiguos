@@ -1,0 +1,18 @@
+Archivo Empleados:
+
+C:\Users\Bmont\Downloads\archivos_Entrada\empleados.csv
+
+
+Archivo Imagenes:
+
+C:\Users\Bmont\Downloads\archivos_Entrada\imagenes.csv
+
+
+Archivo Clientes Registrados:
+
+C:\Users\Bmont\Downloads\archivos_Entrada\clientes_registrados.csv
+
+
+Archivo Clientes Cola Actual:
+
+C:\Users\Bmont\Downloads\archivos_Entrada\clientes_cola.csv

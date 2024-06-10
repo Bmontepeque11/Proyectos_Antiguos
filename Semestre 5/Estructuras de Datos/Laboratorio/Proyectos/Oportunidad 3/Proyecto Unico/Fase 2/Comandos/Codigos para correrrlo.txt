@@ -1,0 +1,3 @@
+Front End con React: npm start
+
+Back End con go en Visual Studio: go run main.go
