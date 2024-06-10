@@ -1,0 +1,55 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  position: absolute;
+  flex-direction: row;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: linear-gradient(to right, #4d4d4e40, #a130cd);
+  margin: auto;
+}
+
+.form-signin {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  width: 500px;
+  padding: 15px;
+  margin-top: 0px;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+  margin-top: 100px;
+}
+.form-signin .form-control {
+  position: absolute;
+  top: 50px;
+  width: 500;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  position: absolute;
+  top: 10px;
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  position: absolute;
+  top: 200px;
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.button {
+  position: absolute;
+  top: 200;
+}
